@@ -10,11 +10,11 @@ For this starter to work you need Spring Boot 1.5+
 ### How to use?
 Simply add it to your dependencies
 ```xml
-    <dependency>
-        <groupId>com.github.timo-reymann</groupId>
-        <artifactId>spring-boot-date-and-time-starter</artifactId>
-        <version>1.0.0</version>
-    </dependency>
+<dependency>
+    <groupId>com.github.timo-reymann</groupId>
+    <artifactId>spring-boot-date-and-time-starter</artifactId>
+    <version>1.0.0</version>
+</dependency>
 ```
 
 To customize the output format use your application yml:
