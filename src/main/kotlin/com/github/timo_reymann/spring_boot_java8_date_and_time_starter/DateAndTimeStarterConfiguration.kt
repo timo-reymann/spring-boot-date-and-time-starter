@@ -17,4 +17,9 @@ open class DateAndTimeStarterConfiguration {
      * DateTime format for date serialize and deserialize
      */
     var dateTimeFormat: String? = null
+
+    /**
+     * Time format for serialize and deserialize
+     */
+    var timeFormat : String? = null
 }
