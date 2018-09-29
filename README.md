@@ -5,7 +5,8 @@ spring-boot-date-and-time-starter
 Customizable output format for LocalDate and LocalDateTime in Spring Boot using Jackson Object Mapper builtin to spring-boot-starter-web
 
 ## Requirements
-For this starter to work you need Spring Boot 1.5+
+If you use Spring Boot 1.5.x the latest supported version is 1.0.0,
+if you use Spring Boot 2.x you must use 2.0.0+
 
 ### How to use?
 Simply add it to your dependencies
@@ -13,7 +14,7 @@ Simply add it to your dependencies
 <dependency>
     <groupId>com.github.timo-reymann</groupId>
     <artifactId>spring-boot-date-and-time-starter</artifactId>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
 </dependency>
 ```
 
