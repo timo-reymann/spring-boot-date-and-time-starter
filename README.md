@@ -1,5 +1,6 @@
 spring-boot-date-and-time-starter
 ===
+[![Maven Central Version](https://maven-badges.herokuapp.com/maven-central/com.github.timo-reymann/spring-boot-date-and-time-starter/badge.svg)](https://search.maven.org/search?q=g:com.github.timo-reymann%20AND%20a:spring-boot-date-and-time-starter&core=gav)
 
 ## What is this?
 Customizable output format for LocalDate and LocalDateTime in Spring Boot using Jackson Object Mapper builtin to spring-boot-starter-web
