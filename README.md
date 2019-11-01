@@ -14,7 +14,7 @@ Simply add it to your dependencies
 <dependency>
     <groupId>com.github.timo-reymann</groupId>
     <artifactId>spring-boot-date-and-time-starter</artifactId>
-    <version>2.2.1</version>
+    <version>2.6.0</version>
 </dependency>
 ```
 
